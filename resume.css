@@ -44,6 +44,10 @@ hr{
   margin-left: 0;
 }
 /*-----------------------------------*/
+.material-icons{
+  margin-top: 12px;
+  margin-right: 5px;
+}
 .personal-info h1{
   /* background-color: #feffff; */
   color: #fff;
