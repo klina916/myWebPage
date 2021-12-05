@@ -1,4 +1,9 @@
 @import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+*{
+  margin: 0;
+  padding: 0;
+  list-style:none;
+}
 *{  
   /*border: solid 1px black;#A55822*/
 }
