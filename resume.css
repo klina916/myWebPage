@@ -43,6 +43,18 @@ hr{
   margin-left: 0;
 }
 /*-----------------------------------*/
+.personal-info h1{
+  /* background-color: #feffff; */
+  color: #fff;
+  font-size: 20px;
+  text-align: left;
+  padding: 5px 0px;
+  width: 85%;
+  margin-top: 50px;
+}
+.personal-info{
+  padding: 0 30px;
+}
 .resume{
   max-width: 950px;
   display: flex;
