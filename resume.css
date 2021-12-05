@@ -48,6 +48,12 @@ hr{
   margin-top: 12px;
   margin-right: 5px;
 }
+/* .personal-data{
+  padding-top: 20px;
+} */
+.box{
+  display: flex;
+}
 .personal-info h1{
   /* background-color: #feffff; */
   color: #fff;
