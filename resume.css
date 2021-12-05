@@ -5,7 +5,7 @@ body{
   padding: 50px;
   display: flex;
   justify-content: center;
-  background-color: #00725d;
+  background-color: #eed74b;
   color:rgba(255,255,255,0.9);
   font-size: 15px;
   line-height: 28px;
@@ -25,7 +25,7 @@ h2::after{
   display:inline-block;
   width: 20px;
   height: 8px;
-  background-color: #6dc7db;
+  background-color: #DB2B39;
   margin-left: 10px;
 }
 h4{
