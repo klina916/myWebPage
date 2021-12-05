@@ -154,6 +154,15 @@ hr{
 .xpList li:nth-child(4) ul{
   border-color: #ff9000;
 }
+.xpList li:nth-child(5) ul{
+  border-color: #ff9000;
+}
+.xpList li:nth-child(6) ul{
+  border-color: #ff9000;
+}
+.xpList li:nth-child(7) ul{
+  border-color: #ff9000;
+}
 /*--------skillList---------------*/
 .skillList{
   display: flex;
